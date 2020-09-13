@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Sobhan Miryoosefi"
-  avatar           : "sobhan.png"
+  avatar           : "profile.png"
   bio              : "PhD Sutudent in CS @ Princeton University"
   location         : "Princeton, NJ"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XItzx5gAAAAJ&hl=en"
-  email            :
+  email            : miryoosefi@cs.princeton.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
