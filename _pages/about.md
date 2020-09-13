@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 About Me
-=======
+------
 
 I am a fourth-year Ph.D. student in the computer science [theory group](http://theory.cs.princeton.edu) at Princeton University. I am honored to have Prof. [Chi Jin](https://ee.princeton.edu/people/chi-jin) and [Robert Schapire](http://rob.schapire.net) as my advisors. Before joining Princeton University, I finished my B.Sc. in Computer Engineering at the Sharif University of Technology, Iran. You can find my [CV](CV.pdf) here.
 
